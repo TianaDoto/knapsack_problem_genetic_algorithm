@@ -1,4 +1,4 @@
-# knapsack_problem_genetic_algorithm
+# knapsack problem genetic algorithm
 
 A solution to the knapsack problem using genetic algorithm. 
 
